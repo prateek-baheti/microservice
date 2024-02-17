@@ -1,4 +1,4 @@
-package com.customer.service.helper;
+package com.customer.service.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
