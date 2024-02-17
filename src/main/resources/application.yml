@@ -1,0 +1,10 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+
+  client:
+    register-with-eureka: false  #yah service khud sai register na ho esliya apan yaha false kar rahe
+    fetch-registery: false    # dont able to fetch registery
